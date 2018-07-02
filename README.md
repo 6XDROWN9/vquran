@@ -1,2 +1,2 @@
-# vquran
-vq
+# quranbot
+botquran
